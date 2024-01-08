@@ -1,7 +1,6 @@
 import {
   mobile,
   backend,
-  creator,
   web,
   javascript,
   typescript,
@@ -52,11 +51,7 @@ const services = [
   {
     title: "Backend Developer",
     icon: backend,
-  },
-  {
-    title: "Software Developer",
-    icon: creator,
-  },
+  }
 ];
 
 const technologies = [
@@ -138,13 +133,13 @@ const experiences = [
     points: [
       "Solve 3000+ problems on Various Online Platforms",
       "Participated in 140+ online Contests",
-      "Solve 950+ problems on Codeforces",
+      "Solve 1200+ problems on Codeforces",
       "Solve 350+ problems on Codechef",
       "Solve 550+ problems on Geeks For Geeks",
-      "Solve 750+ problems on Code Studio",
-      "Solve 180+ problems on LeetCode",
-      "Max. CodeChef Rating - 1907 (4 star) under handle",
-      " Max. CodeForces Rating - 1578 (Specialist) under handle",
+      "Solve 800+ problems on Code Studio",
+      "Solve 190+ problems on LeetCode",
+      "Max. CodeChef Rating - 1984 (4 star) under handle",
+      " Max. CodeForces Rating - 1709 (Expert) under handle",
     ],
   },
 ];
